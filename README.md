@@ -37,7 +37,7 @@ Built with FastAPI and SQLite — simple enough to read in one sitting, realisti
 Clone the repository and enter the project folder:
 ```powershell
 git clone <repository-url>
-cd "Vulnerable app"
+cd "vuln-app-cc"
 ```
 
 Navigate to the backend directory and install dependencies:
@@ -83,7 +83,7 @@ The app starts on `http://localhost:3001`. Open that URL to reach the login page
 ## Project Structure
 
 ```
-Vulnerable app/
+vuln-app-cc/
 ├── README.md
 ├── .gitignore
 ├── docs/
