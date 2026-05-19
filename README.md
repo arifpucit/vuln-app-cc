@@ -3,7 +3,7 @@
 An intentionally vulnerable web application designed to teach common security vulnerabilities through hands-on exploitation. Rather than studying vulnerabilities in theory, you'll exploit them in a working application to understand how real attacks work.
 
 **Warning:** This application is deliberately insecure. It is designed for educational use only and should never be deployed to production or used on systems you do not own.
-
+**Read this AI generated Artifact for Project Details:** https://claude.ai/public/artifacts/77c80a2a-7075-445f-b03d-bf572e9f330c
 ---
 
 ## Overview
